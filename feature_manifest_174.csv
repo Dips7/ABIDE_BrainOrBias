@@ -1,0 +1,175 @@
+feature_name,anatomical_compartment,unit,source_table,variance,is_constant_zero
+lh_bankssts_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.11862167253852121,False
+lh_caudalanteriorcingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.13438397240116243,False
+lh_caudalmiddlefrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08213847551930031,False
+lh_cuneus_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07339804332314824,False
+lh_entorhinal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.29784673662620653,False
+lh_fusiform_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07985537192834918,False
+lh_inferiorparietal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.0734531330268457,False
+lh_inferiortemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.1109948600865267,False
+lh_isthmuscingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.10125121575981835,False
+lh_lateraloccipital_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.05584055669180239,False
+lh_lateralorbitofrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.0909438855773274,False
+lh_lingual_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.0610423777310571,False
+lh_medialorbitofrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08540443575813642,False
+lh_middletemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.13712126201328736,False
+lh_parahippocampal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.1515463604257188,False
+lh_paracentral_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.0782621651351629,False
+lh_parsopercularis_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07231269740887132,False
+lh_parsorbitalis_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.14674099032508248,False
+lh_parstriangularis_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.09724004781767724,False
+lh_pericalcarine_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07007722329119127,False
+lh_postcentral_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.036988313084592446,False
+lh_posteriorcingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.0699049105710201,False
+lh_precentral_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.05174731776600417,False
+lh_precuneus_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06700977579682112,False
+lh_rostralanteriorcingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.14790251838832355,False
+lh_rostralmiddlefrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.0820655245647969,False
+lh_superiorfrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08930754469393286,False
+lh_superiorparietal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.049107888455321026,False
+lh_superiortemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.10455294850073352,False
+lh_supramarginal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07693127714704866,False
+lh_frontalpole_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.22410754042179426,False
+lh_temporalpole_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.2911241438398789,False
+lh_transversetemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.12791147435875871,False
+lh_insula_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07621086510432727,False
+lh_MeanThickness_thickness,Cortical Thickness (Hemispheric Mean),mm,lh/rh.aparc_table_thickness.tsv,0.042405190329433094,False
+rh_bankssts_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.12145619598015304,False
+rh_caudalanteriorcingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.11381744753361552,False
+rh_caudalmiddlefrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06977979687158356,False
+rh_cuneus_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07486075030041395,False
+rh_entorhinal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.34457917601173627,False
+rh_fusiform_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.09821537788243208,False
+rh_inferiorparietal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06858995119184444,False
+rh_inferiortemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.12383228703688129,False
+rh_isthmuscingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08649110191087563,False
+rh_lateraloccipital_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06089986487446154,False
+rh_lateralorbitofrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.10461011083078706,False
+rh_lingual_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06556443113278951,False
+rh_medialorbitofrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.09329224356983339,False
+rh_middletemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.12393521037946531,False
+rh_parahippocampal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.14161949198179763,False
+rh_paracentral_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07739415688242274,False
+rh_parsopercularis_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.07475284144497706,False
+rh_parsorbitalis_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.1448307675683757,False
+rh_parstriangularis_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.09103688166587243,False
+rh_pericalcarine_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06504215737953073,False
+rh_postcentral_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.039824887126584996,False
+rh_posteriorcingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08571299747708351,False
+rh_precentral_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.05119364624412487,False
+rh_precuneus_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06402949748549323,False
+rh_rostralanteriorcingulate_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.12691119026154232,False
+rh_rostralmiddlefrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08410135757201993,False
+rh_superiorfrontal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08625345180388529,False
+rh_superiorparietal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.04958145720292658,False
+rh_superiortemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.10321498709014286,False
+rh_supramarginal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.06883518004840262,False
+rh_frontalpole_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.20726151914519853,False
+rh_temporalpole_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.34744758541380505,False
+rh_transversetemporal_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.13244357209841243,False
+rh_insula_thickness,Cortical Thickness (Desikan-Killiany),mm,lh/rh.aparc_table_thickness.tsv,0.08614609369738083,False
+rh_MeanThickness_thickness,Cortical Thickness (Hemispheric Mean),mm,lh/rh.aparc_table_thickness.tsv,0.03901787967217635,False
+lh_bankssts_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,45590.573898092865,False
+lh_caudalanteriorcingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,28375.717653874544,False
+lh_caudalmiddlefrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,223554.44929778823,False
+lh_cuneus_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,68678.61117558563,False
+lh_entorhinal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,19127.760066904004,False
+lh_fusiform_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,328543.42456946895,False
+lh_inferiorparietal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,631210.316373728,False
+lh_inferiortemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,412853.4707762173,False
+lh_isthmuscingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,50613.8424989955,False
+lh_lateraloccipital_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,556898.5555125725,False
+lh_lateralorbitofrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,198040.78541754268,False
+lh_lingual_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,290604.2469505415,False
+lh_medialorbitofrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,100005.28789841056,False
+lh_middletemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,298346.29859744536,False
+lh_parahippocampal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,38484.321712966856,False
+lh_paracentral_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,46772.11474224203,False
+lh_parsopercularis_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,104867.78324970332,False
+lh_parsorbitalis_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,11674.325284295312,False
+lh_parstriangularis_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,55071.72789504667,False
+lh_pericalcarine_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,77943.53812313703,False
+lh_postcentral_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,383592.12597763014,False
+lh_posteriorcingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,58270.21231370131,False
+lh_precentral_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,422196.17579682113,False
+lh_precuneus_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,398423.2176847102,False
+lh_rostralanteriorcingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,42041.92189237425,False
+lh_rostralmiddlefrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,1008282.7759145572,False
+lh_superiorfrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,1167984.889178557,False
+lh_superiorparietal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,648256.0924078902,False
+lh_superiortemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,368782.1881497678,False
+lh_supramarginal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,460728.64447060804,False
+lh_frontalpole_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,1651.103065810744,False
+lh_temporalpole_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,5809.556607705174,False
+lh_transversetemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,8665.490187723675,False
+lh_insula_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,155060.7361533933,False
+lh_WhiteSurfArea_area,Cortical Surface Area (Total White Surf),mm^2,lh/rh.aparc_table_area.tsv,121363436.87268825,False
+rh_bankssts_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,35736.94858483073,False
+rh_caudalanteriorcingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,38141.636012296876,False
+rh_caudalmiddlefrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,217910.12340425534,False
+rh_cuneus_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,72231.86590605407,False
+rh_entorhinal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,11038.56766929237,False
+rh_fusiform_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,305684.03537315805,False
+rh_inferiorparietal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,824276.5082518057,False
+rh_inferiortemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,365444.5899083341,False
+rh_isthmuscingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,43000.55438753866,False
+rh_lateraloccipital_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,564192.0079182202,False
+rh_lateralorbitofrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,221320.5770881806,False
+rh_lingual_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,265126.2134891935,False
+rh_medialorbitofrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,89704.19438978125,False
+rh_middletemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,336783.1408310674,False
+rh_parahippocampal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,29700.601487586315,False
+rh_paracentral_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,72471.81061306871,False
+rh_parsopercularis_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,74252.8070380026,False
+rh_parsorbitalis_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,18960.462603836702,False
+rh_parstriangularis_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,87040.50853212981,False
+rh_pericalcarine_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,97306.3796391295,False
+rh_postcentral_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,339563.46600697073,False
+rh_posteriorcingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,56484.05266354573,False
+rh_precentral_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,486635.46196469787,False
+rh_precuneus_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,429060.0879993273,False
+rh_rostralanteriorcingulate_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,33271.00952728021,False
+rh_rostralmiddlefrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,1074636.4889094462,False
+rh_superiorfrontal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,1175763.2480531493,False
+rh_superiorparietal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,622370.5234902214,False
+rh_superiortemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,298636.367187135,False
+rh_supramarginal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,404217.94552369206,False
+rh_frontalpole_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,2818.607434193928,False
+rh_temporalpole_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,5767.681436006691,False
+rh_transversetemporal_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,4716.475190386755,False
+rh_insula_area,Cortical Surface Area (Desikan-Killiany),mm^2,lh/rh.aparc_table_area.tsv,130135.5206365225,False
+rh_WhiteSurfArea_area,Cortical Surface Area (Total White Surf),mm^2,lh/rh.aparc_table_area.tsv,123142601.87647514,False
+Left-Thalamus-Proper,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,753916.8131023464,False
+Left-Caudate,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,383404.8135228324,False
+Left-Putamen,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,798085.0539866752,False
+Left-Pallidum,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,78038.8971173343,False
+Left-Hippocampus,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,352325.9114979583,False
+Left-Amygdala,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,118093.45462581412,False
+Left-Accumbens-area,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,36358.16389052411,False
+Right-Thalamus-Proper,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,771503.9171642419,False
+Right-Caudate,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,404019.50076154707,False
+Right-Putamen,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,851983.4951774918,False
+Right-Pallidum,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,65490.224236817754,False
+Right-Hippocampus,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,365593.0391463198,False
+Right-Amygdala,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,124232.86607424851,False
+Right-Accumbens-area,Subcortical Nucleus Volume,mm^3,aseg_table.tsv,34100.19008400378,False
+Left-VentralDC,Ventral Diencephalon Volume,mm^3,aseg_table.tsv,266018.1417785627,False
+Right-VentralDC,Ventral Diencephalon Volume,mm^3,aseg_table.tsv,241973.95772339494,False
+Left-Lateral-Ventricle,Ventricular / CSF Volume,mm^3,aseg_table.tsv,14395179.232121399,False
+Left-Inf-Lat-Vent,Ventricular / CSF Volume,mm^3,aseg_table.tsv,36579.19539894786,False
+Left-choroid-plexus,Ventricular / CSF Volume,mm^3,aseg_table.tsv,113694.64254945384,False
+Right-Lateral-Ventricle,Ventricular / CSF Volume,mm^3,aseg_table.tsv,13485712.654478176,False
+Right-Inf-Lat-Vent,Ventricular / CSF Volume,mm^3,aseg_table.tsv,36049.27872246984,False
+Right-choroid-plexus,Ventricular / CSF Volume,mm^3,aseg_table.tsv,150605.50539063156,False
+CSF,Ventricular / CSF Volume,mm^3,aseg_table.tsv,116396.60767153496,False
+Left-Cerebellum-White-Matter,Cerebellar / Brainstem Volume,mm^3,aseg_table.tsv,7323545.574838113,False
+Left-Cerebellum-Cortex,Cerebellar / Brainstem Volume,mm^3,aseg_table.tsv,63602893.247208446,False
+Right-Cerebellum-White-Matter,Cerebellar / Brainstem Volume,mm^3,aseg_table.tsv,5991013.658045767,False
+Right-Cerebellum-Cortex,Cerebellar / Brainstem Volume,mm^3,aseg_table.tsv,71968769.44163561,False
+Brain-Stem,Cerebellar / Brainstem Volume,mm^3,aseg_table.tsv,7867915.932385838,False
+Left-WM-hypointensities,White Matter Hypointensity Volume,mm^3,aseg_table.tsv,0.0,True
+Right-WM-hypointensities,White Matter Hypointensity Volume,mm^3,aseg_table.tsv,0.0,True
+Left-non-WM-hypointensities,White Matter Hypointensity Volume,mm^3,aseg_table.tsv,0.0,True
+Right-non-WM-hypointensities,White Matter Hypointensity Volume,mm^3,aseg_table.tsv,0.0,True
+Left-vessel,Vessel Volume,mm^3,aseg_table.tsv,4121.4953456862795,False
+Right-vessel,Vessel Volume,mm^3,aseg_table.tsv,2873.281187452695,False

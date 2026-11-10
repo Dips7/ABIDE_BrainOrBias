@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite them as below."
+title: "Brain or Bias? Confound Control Removes Most of the Structural MRI Classification Signal for Autism in ABIDE I: analysis code and results"
+version: "1.0"
+date-released: "2026-11-10"
+type: software
+authors:
+  - family-names: Gurung
+    given-names: Dipesh
+    affiliation: "Department of Computer Science, Noida International University, Greater Noida, India"
+  - family-names: Bhattarai
+    given-names: Binod
+    affiliation: "Department of Computer Science, Noida International University, Greater Noida, India"
+    email: binoth25@gmail.com
+    orcid: "https://orcid.org/0009-0006-6691-5264"
+  - family-names: Thakur
+    given-names: "R. N."
+    affiliation: "Lord Buddha Education Foundation, Kathmandu, Nepal"
+keywords:
+  - autism
+  - ABIDE
+  - structural MRI
+  - machine learning
+  - confounding
+  - site effects
+  - TRIPOD+AI
+repository-code: "https://github.com/Dips7/ABIDE_BrainOrBias"

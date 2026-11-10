@@ -1,0 +1,25 @@
+loio C0_raw done (64s)
+loio C0_combat done (64s)
+loio C3_raw done (64s)
+loio C3_combat done (64s)
+kfold C0_raw done (64s)
+kfold C0_combat done (64s)
+kfold C3_raw done (64s)
+kfold C3_combat done (64s)
+{
+  "criterion_loio_delta_full_gt_0": true,
+  "loio_delta_full": 0.02753596114328416,
+  "heterogeneity_reported_descriptively": {
+    "tau2": 0.0,
+    "I2": 0.0,
+    "Q": 8.412809689595312,
+    "pi_lo": 0.013699190297196979,
+    "pi_hi": 0.05790557718953429,
+    "mu": 0.03580238374336563,
+    "ci_lo": 0.013818904465680164,
+    "ci_hi": 0.0577858630210511
+  },
+  "note": "The plan gave no numeric threshold for 'limited heterogeneity'; reported descriptively (DEVIATIONS.md clarification 14)."
+}
+total 64s
+exit=0

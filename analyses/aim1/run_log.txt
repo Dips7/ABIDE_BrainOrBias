@@ -1,0 +1,31 @@
+single-variable AUCs done
+hierarchy l1 C0: dAUC=0.0914
+hierarchy l1 C1: dAUC=0.0486
+hierarchy l1 C2: dAUC=0.0402
+hierarchy l1 C3: dAUC=0.0342
+hierarchy enet C0: dAUC=0.0836
+hierarchy enet C1: dAUC=0.0437
+hierarchy enet C2: dAUC=0.0392
+hierarchy enet C3: dAUC=0.0278
+hierarchy svm C0: dAUC=0.0917
+hierarchy svm C1: dAUC=0.0397
+hierarchy svm C2: dAUC=0.0551
+hierarchy svm C3: dAUC=0.0219
+permutation within_site: p=0.0010 (394s)
+permutation within_site_age_tertile_sex: p=0.0010 (690s)
+LOIO done
+S1_exclude_any_rater_fail done
+S2_exclude_majority_rater_fail done
+S3_exclude_top_motion_decile done
+S4_complete_case_FIQ done
+S5_males_only done
+S6 done
+{
+  "verdict": "ROBUST SIGNAL",
+  "delta_full": 0.03416663553147773,
+  "p_within_site": 0.000999000999000999,
+  "loio_delta_full": 0.02753596114328416,
+  "sesoi": 0.03
+}
+total 853s
+exit=0

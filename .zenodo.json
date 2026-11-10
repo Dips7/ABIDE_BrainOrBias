@@ -1,0 +1,12 @@
+{
+  "title": "Brain or Bias? Confound Control Removes Most of the Structural MRI Classification Signal for Autism in ABIDE I: analysis code and results",
+  "upload_type": "software",
+  "version": "1.0",
+  "description": "Analysis code, pre-specified analysis plan, result tables, figures and manuscript draft for a study of how much of the structural MRI (FreeSurfer v6 morphometry) signal for classifying autism in ABIDE I (N = 1,035; 17 institutions) survives adjustment for age, sex, head size, site, IQ, head motion and image quality. The ABIDE-derived data are under CC BY-NC-SA 3.0 and are not covered by the code licence.",
+  "creators": [
+    {"name": "Gurung, Dipesh", "affiliation": "Department of Computer Science, Noida International University, Greater Noida, India"},
+    {"name": "Bhattarai, Binod", "affiliation": "Department of Computer Science, Noida International University, Greater Noida, India", "orcid": "0009-0006-6691-5264"},
+    {"name": "Thakur, R. N.", "affiliation": "Lord Buddha Education Foundation, Kathmandu, Nepal"}
+  ],
+  "keywords": ["autism", "ABIDE", "structural MRI", "machine learning", "confounding", "site effects", "TRIPOD+AI"]
+}

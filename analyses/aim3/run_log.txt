@@ -1,0 +1,8 @@
+compartment thickness: dAUC=0.0161 p=0.0010 (244s)
+compartment area: dAUC=0.0130 p=0.0040 (474s)
+compartment subcortical: dAUC=0.0219 p=0.0010 (673s)
+age under_18 done
+age 18_and_over done
+stability: 6 stable features
+total 850s
+exit=0

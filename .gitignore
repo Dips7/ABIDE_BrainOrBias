@@ -1,0 +1,14 @@
+# Python environments (macOS benchmark venv and Windows test venv)
+.venv/
+.venv-win/
+
+# Caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# OS / archive junk
+__MACOSX/
+._*
+.DS_Store
+Thumbs.db

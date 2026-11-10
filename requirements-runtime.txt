@@ -1,0 +1,18 @@
+# Runtime pins for the test suite, external intake runner and prospective M=2000 runner.
+# These match the version checks hard-coded in
+#   external_validation/run_external_intake_and_evaluation.py  (Python 3.11.x, scikit-learn 1.9.x)
+#   vv_audit/inconclusive_resolution/PROSPECTIVE_M2000_RUNNER.py (Python 3.11.16, sklearn 1.9.1, numpy 2.4.6, scipy 1.17.1)
+# The historical ABIDE I benchmark used different pins: see requirements-benchmark.txt.
+# Interpreter: CPython 3.11.16
+numpy==2.4.6
+scipy==1.17.1
+scikit-learn==1.9.1
+pandas==3.0.6
+joblib==1.6.0
+pillow
+pytest
+# Reference implementations (tests) and Aim 3 evaluation and figures
+neuroCombat==0.2.12
+statsmodels
+ggseg==0.1
+matplotlib

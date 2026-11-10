@@ -1,0 +1,41 @@
+{
+  "system": {
+    "os": "Darwin",
+    "kernel_release": "27.2",
+    "architecture": "aarch64 (Apple Silicon ARM64)",
+    "local_timezone": "+05:45",
+    "recorded_timestamp": "2026-11-04T13:14:13.622510+05:45"
+  },
+  "python": {
+    "executable": "/usr/bin/python3",
+    "version": "3.9.6 (default, Oct 19 2026, 19:18:13) [Clang 21.0.0 (clang-2100.4.1.1)]"
+  },
+  "blas_lapack": {
+    "system_default_blas": "Apple Accelerate vecLib",
+    "accelerate_framework_path": "/System/Library/Frameworks/Accelerate.framework/Accelerate",
+    "alternative_blas_present": "/opt/homebrew/opt/openblas/lib/libopenblas.dylib",
+    "numpy_blas_name": "accelerate",
+    "numpy_lapack_name": "accelerate",
+    "simd_extensions_found": [
+      "ASIMDHP"
+    ],
+    "matmul_exception_behavior": "cblas_dgemv in vecLib sets FPSR flags 0x9f (IOC, DZC, OFC, UFC, IXC, IDC) when M >= 512 on tested shapes/dtype, triggering NumPy 2.0.2 PyUFunc_checkfperr RuntimeWarnings on strictly finite data. OpenBLAS cblas_dgemv sets 0x10 (inexact only) on identical inputs with observed max absolute output difference <= 2.13e-14 on output scale ~42 (tested within atol=1e-11). Full scikit-learn pipeline under OpenBLAS remains untested."
+  },
+  "core_packages": {
+    "numpy": "2.0.2",
+    "scipy": "1.13.1",
+    "scikit-learn": "1.6.1",
+    "pandas": "2.3.3",
+    "joblib": "1.5.3"
+  },
+  "artifact_hashes": {
+    "abide_freesurfer_tabular_dataset_csv": "9c84f601fd22a7aaa1780983d42fa884c3ef9d38878a32e465a37bcd42d99b3c",
+    "feature_manifest_174_csv": "8e621108b47e510b061610777c215545b5463ce9af473157ce0b09fea332c15c",
+    "run_abide_ml_benchmark_py": "242eacb811a8a329aecc8dce08e8dc801c50f333c2c974ff4471a54c90b4b6cb",
+    "reproduce_matmul_warnings_py": "cb10cf685b58cac0c24d6b9d42e471c35bd01d2066bef59dff5ae7a994f1c25e",
+    "oof_predictions_classification_csv": "27dc12e7f541defc609264bc0624b57a84aea963defd25363b26d8155d9662a7",
+    "oof_predictions_loso_csv": "153542ce80c14581415001e389cb608d02285cab8cadc9271136e2a3f43f755f",
+    "oof_predictions_regression_csv": "1d7799c999b552792ead1e9ac339033fd64f29f8b21b86ae3c7bf66e8f21a8d9",
+    "feature_rankings_l1_csv": "d0ec58aea590fb29fdde9e8fb9652385759429e77cea3debafcf6b223cfa05c4"
+  }
+}
