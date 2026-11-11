@@ -86,6 +86,6 @@ None of these were self-certified. The manuscript lists them as future work.
 ¹ Department of Computer Science, Noida International University, Greater Noida, India
 ² Lord Buddha Education Foundation, Kathmandu, Nepal
 
-> Gurung D, Bhattarai B, Thakur RN. *Brain or Bias? Confound Control Removes Most of the Structural MRI Classification Signal for Autism in ABIDE I* — analysis code and results (v1.0). 2026. GitHub: https://github.com/Dips7/ABIDE_BrainOrBias.
+> Gurung D, Bhattarai B, Thakur RN. *Brain or Bias? Confound Control Removes Most of the Structural MRI Classification Signal for Autism in ABIDE I* — analysis code and results (v1.0). 2026. GitHub: https://github.com/Dips7/ABIDE_BrainOrBias. DOI: [10.5281/zenodo.24142658](https://doi.org/10.5281/zenodo.24142658).
 
 Machine-readable citation metadata is in [`CITATION.cff`](CITATION.cff).

@@ -50,7 +50,7 @@
 | 18c | Protocol / analysis plan availability | §2.1 (git tag `analysis-plan-v2`; `RESEARCH_PROPOSAL_ABIDE.md`; `analyses/DEVIATIONS.md`) |
 | 18d | Registration | §2.1 (not registered on an external registry; plan time-stamped in version control) |
 | 18e | Data availability | Declarations |
-| 18f | Code availability | Declarations; §2.12 (GitHub: https://github.com/Dips7/ABIDE_BrainOrBias) |
+| 18f | Code availability | Declarations; §2.12 (GitHub: https://github.com/Dips7/ABIDE_BrainOrBias, Zenodo DOI: 10.5281/zenodo.24142658) |
 | 19 | Patient and public involvement | None (retrospective secondary analysis of public de-identified database) |
 | **Results** | | |
 | 20a | Participant flow, numbers, follow-up | §2.2, §3.1; cohort flow in `FEATURE_MANIFEST_AND_COHORT_FLOW.md` |
